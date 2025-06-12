@@ -12,9 +12,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project          |
 |-----------------------------------------------|-----------------------------|
 | Networking                                    |OPNsense Firewall Walkthrough|
-| Full Stack Development                        |Uber Clone                   |
-| Ransomeware detection and Reporting           |ThreatMesh                   |
-| Frontend Development                   |<a href="https://github.com/atharva-rasal/atharvaautomations">Atharva Automations</a>|
+| Full Stack Development                        |<a href="https://github.com/atharva-rasal/uber-clone">Uber Clone</a>|
+| Ransomeware detection and Reporting           |<a href="https://github.com/atharva-rasal/threat-mesh">ThreatMesh</a>|
+| Frontend Development                          |<a href="https://atharvaautomations.com">Atharva Automations</a>|
 | NA                                            | NA                          |
 | NA                                            | NA                          |
 
