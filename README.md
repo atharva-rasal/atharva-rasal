@@ -82,7 +82,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Virtual Home Lab
-- Threat Detection and Onine Reporting System
-- Full-Stack Uber Clone
+- <a href="https://github.com/atharva-rasal/threat-mesh">ThreatMesh - Threat Detection and Reporting System</a>|
+- <a href="https://github.com/atharva-rasal/uber-clone">Full-Stack Uber Clone</a>
 - Inventory Management System
-- <a href="https://github.com/atharva-rasal/atharvaautomations">Atharva Automations Website</a>
+- <a href="https://atharvaautomations.com">Atharva Automations Website</a>
